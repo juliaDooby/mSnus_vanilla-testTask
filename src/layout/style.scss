@@ -1,0 +1,79 @@
+@import '../colors';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 2vh;
+}
+
+@media (max-aspect-ratio: 1 / 1) {
+    html {
+        font-size: 1.5vh;
+    }
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    overflow-y: scroll;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+menu {
+    display: inline-flex;
+    flex-direction: column;
+    padding: 1rem 2rem 1rem 1rem;
+    position: absolute;
+    top: 5rem;
+    left: 0;
+    height: 90%;
+    min-height: 100vh;
+    z-index: 1;
+    background: $color-light;
+}
+
+.menu-hidden {
+    display: none;
+}
+
+main {
+    min-height: 90vh;
+}
+
+.m-05 {
+    margin: .5rem;
+}
+
+.mb-3 {
+    margin-bottom: 3rem;
+}
+
+.burger {
+    background: transparent;
+    border: none;
+
+    svg {
+        height: 1.5rem;
+        width: 1.5rem;
+        stroke: $color-neutral;
+        stroke-width: 1rem;
+    }
+
+    &:hover {
+        cursor: pointer;
+
+        svg {
+            stroke: $color-black;
+        }
+    }
+}

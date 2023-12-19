@@ -1,0 +1,64 @@
+@import '../colors';
+
+.checkbox,
+.radio {
+    font-size: 2rem;
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+
+    svg {
+        width: 2rem;
+        height: 2rem;
+        margin-right: .5rem;
+        pointer-events: none;
+
+        :first-child {
+            fill: none;
+            stroke: $color-neutral;
+            stroke-width: .5rem;
+        }
+    }
+
+    &:hover {
+        cursor: pointer;
+
+        svg :first-child {
+            stroke: $color-black;
+        }
+    }
+
+    &-empty {
+        svg :last-child {
+            fill: none;
+        }
+    }
+}
+
+.checkbox-red svg :first-child {
+    fill: $color-light-red;
+}
+
+.checkbox-green svg :first-child {
+    fill: $color-light-green;
+}
+
+.checkbox-blue svg :first-child {
+    fill: $color-light-blue;
+}
+
+.checkbox-yellow svg :first-child {
+    fill: $color-light-yellow;
+}
+
+.num-cols {
+    font-size: 2rem;
+    width: 4rem;
+    padding: 0 .5rem;
+    border: none;
+
+    &:focus {
+        font-size: 2rem;
+    }
+}

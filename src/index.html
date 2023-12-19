@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mSnus - vanilla</title>
+</head>
+<body>
+    <header>
+        <button id="burger" class="m-05 burger"></button>
+        <button id="circle" class="m-05 checkbox">круги</button>
+        <button id="square" class="m-05 checkbox">квадраты</button>
+        <div></div>
+    </header>
+    <menu class="menu-hidden">
+        <button id="red" class="m-05 checkbox checkbox-red">красные</button>
+        <button id="green" class="m-05 checkbox checkbox-green">зелёные</button>
+        <button id="blue" class="m-05 checkbox checkbox-blue">синие</button>
+        <button id="yellow" class="m-05 mb-3 checkbox checkbox-yellow">жёлтые</button>
+
+        <button id="all" class="m-05 darkness">все</button>
+        <button id="dark" class="m-05 darkness">тёмные</button>
+        <button id="light" class="m-05 mb-3 darkness">светлые</button>
+
+        <div class="m-05">
+            колонок: 
+            <input type="number"
+                id="num-cols" class="num-cols" 
+                value="4" min="1" max="8"
+            />
+        </div>
+    </menu>
+    <main>
+        <div id="figures" class="figures"></div>
+    </main>
+</body>
+</html>
