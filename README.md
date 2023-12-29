@@ -3,8 +3,9 @@
 
  <! -- <div align="center"><img src="" width="100%" height="20%"></img></div>
 
- [demo](https://juliadooby.github.io//) -->
+ [demo](https://juliadooby.github.io//) 
  ---
+-->
 
 ## От Team Leader mSnus :
 ## Это было тестовое на реакте , также добавлена в статью : 
