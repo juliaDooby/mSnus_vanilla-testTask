@@ -21,7 +21,7 @@
 ### Technologies Used:
 
 * Javascript
-*  HTML5
+* HTML5
 * SCSS
 
 [Это было тестовое на реакте, также добавлено в статью](https://habr.com/ru/post/691986/)
