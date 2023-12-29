@@ -24,9 +24,9 @@ https://habr.com/ru/post/691986/
 
 [прототип в PNG - close](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/menu_close.png)
 
-[Данные для приложения]()
+[Данные для приложения](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/test.json)
 
-Данные для приложения - файл /data/test.json
+
 
 ### Приложение отображает объекты из файла данных. Каждый объект имеет следующие параметры:
 
