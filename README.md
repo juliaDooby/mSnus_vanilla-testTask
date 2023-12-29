@@ -1,6 +1,6 @@
 
 ## Test-task 
- ---
+
  <!-- <div align="center"><img src="" width="100%" height="20%"></img></div>
 
  [demo](https://juliadooby.github.io//) 
