@@ -18,10 +18,9 @@ https://habr.com/ru/post/691986/
 
 ### Выглядеть должно примерно так:
 
- [demo](https://juliadooby.github.io/Travel-app/)
 [ссылка на макет Figma](https://www.figma.com/file/DaktkhoeaQEUagJ03Gk3r1/circles_and_squares_1?type=design&node-id=0-1&mode=design&t=cH8Y9fFJ7GXGsnmS-0)
-[прототип в PNG](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-[Данные для приложения](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+[прототип в PNG]()
+[Данные для приложения]()
 
 Данные для приложения - файл /data/test.json
 
