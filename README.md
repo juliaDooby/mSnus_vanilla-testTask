@@ -9,7 +9,7 @@
 
 [demo-ex](https://maryrabinovich.github.io/mSnus_vanilla/dist/)
 
-[Это было тестовое на реакте, также добавлена в статью](https://habr.com/ru/post/691986/)
+[Это было тестовое на реакте, также добавлено в статью](https://habr.com/ru/post/691986/)
 
  ---
  
