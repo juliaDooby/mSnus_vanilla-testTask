@@ -1,5 +1,5 @@
 
-## Тестовое задание от Team Leader `mSnus`
+## Тестовое задание от Team leader `mSnus`
 
  <!-- <div align="center"><img src="" width="100%" height="20%"></img></div>
 
