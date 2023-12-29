@@ -7,9 +7,9 @@
 ![SCSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<div align="center"><img src="https://github.com/juliaDooby/Rentiz/blob/main/RentizShot1.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/Rentiz/blob/main/RentizShot2.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/Rentiz/blob/main/RentizShot3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/" width="100%" height="20%"></img></div>
 
 [demo-ex](https://maryrabinovich.github.io/mSnus_vanilla/dist/)
 
