@@ -18,8 +18,11 @@ https://habr.com/ru/post/691986/
 
 ### Выглядеть должно примерно так:
 
-ссылка на макет Figma
-прототип в PNG
+
+![ссылка на макет Figma](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![прототип в PNG](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Данные для приложения](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 Данные для приложения - файл /data/test.json
 
 ### Приложение отображает объекты из файла данных. Каждый объект имеет следующие параметры:
