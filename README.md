@@ -1,11 +1,11 @@
-![image](https://github.com/juliaDooby/mSnus_vanilla-testTask/assets/87147748/6b802cf3-82c8-4f65-a35f-f7810d86a77f)
+
 ## `Тестовое задание` от Team leader `mSnus`
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![GSAP](https://img.shields.io/badge/gsap-%23323330.svg?style=for-the-badge&logo=gsap&logoColor=%223F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 <div align="center"><img src="https://github.com/juliaDooby/Rentiz/blob/main/RentizShot1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Rentiz/blob/main/RentizShot2.JPG" width="100%" height="20%"></img></div>
@@ -15,10 +15,9 @@
 
 ### Technologies Used:
 
-* HTML
-* CSS
-* Javascript 
-* GSAP
+* Javascript
+*  HTML5
+* SCSS
 
 [Это было тестовое на реакте, также добавлено в статью](https://habr.com/ru/post/691986/)
 
