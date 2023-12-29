@@ -8,11 +8,11 @@
 
 
 <div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_1.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_2.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_3.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_4.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_5.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_6.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_4.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_5.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_6.JPG" width="100%" height="20%"></img></div>
 
 ---
 
