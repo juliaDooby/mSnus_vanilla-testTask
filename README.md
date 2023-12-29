@@ -19,7 +19,8 @@ https://habr.com/ru/post/691986/
 ### Выглядеть должно примерно так:
 
 [ссылка на макет Figma](https://www.figma.com/file/DaktkhoeaQEUagJ03Gk3r1/circles_and_squares_1?type=design&node-id=0-1&mode=design&t=cH8Y9fFJ7GXGsnmS-0)
-[прототип в PNG]()
+[прототип в PNG - open](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/menu_open.png)
+[прототип в PNG - close](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/menu_close.png)
 [Данные для приложения]()
 
 Данные для приложения - файл /data/test.json
