@@ -1,5 +1,5 @@
 
-## Test-task 
+## Тестовое задание от Team Leader `mSnus`
 
  <!-- <div align="center"><img src="" width="100%" height="20%"></img></div>
 
@@ -7,8 +7,7 @@
  ---
 -->
 
-### От Team Leader mSnus :
-### Это было тестовое на реакте , также добавлена в статью : 
+### Это было тестовое на реакте, также добавлена в статью : 
 
 https://habr.com/ru/post/691986/
  ---
