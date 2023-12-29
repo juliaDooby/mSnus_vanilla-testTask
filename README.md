@@ -23,7 +23,7 @@
 
 [прототип в PNG - close](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/menu_close.png)
 
-[Данные для приложения](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/test.json)
+[Данные для приложения](https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/data/test.json)
 
 
 
